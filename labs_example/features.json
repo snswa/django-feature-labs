@@ -1,0 +1,17 @@
+[
+  {
+    "enabled": false,
+    "name": "feature1",
+    "description": "This is for feature 1"
+  },
+  {
+    "enabled": true,
+    "name": "feature2",
+    "description": "This is for feature 2"
+  },
+  {
+    "enabled": false,
+    "name": "feature3",
+    "description": "This is for feature 3"
+  }
+]

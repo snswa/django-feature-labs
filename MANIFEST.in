@@ -1,0 +1,9 @@
+recursive-include doc_src *
+recursive-include docs *
+
+recursive-include featurelabs/media *
+recursive-include featurelabs/templates *
+
+include LICENSE
+include README
+include *.txt
